@@ -1,14 +1,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6242888&assignment_repo_type=AssignmentRepo)
 
+# Functional-Typescript-React-Final-Project
+
+Teammates and I took a working React web app and had to learn React very quickly enough to create our own additions to the app.
+
+I made a Drum Set and Fast Fourier Transform Visualizer (an Equalizer Visualizer to show amplitudes of different frequencies). Located at
+
+- `client/src/instruments/Natedude.tsx`
+- `client/src/visualizers/Natedude.tsx`
+
 # LamdbaVibe
 
 CSC 600 musical application. Get ready to shred.
-
-## Functional-Typescript-React-Final-Project
-
-Teammates and I took a working React web app and had to learn React very quickly eneough to create our own additions to the app.
-
-I made a Drum Set and Fast Fourier Transform Visualizer (an Equalizer Visualizer to show amplitudes of different frequencies).
 
 ## Client
 
